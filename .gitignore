@@ -1,0 +1,6 @@
+.venv/
+input_images/
+outputs/
+*.ipynb
+notebooks/
+pipeline/
